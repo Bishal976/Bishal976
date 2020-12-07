@@ -18,7 +18,7 @@
 ### 💬 Ask me about Python projects, Patents & Frontend Web Development.
 
 
-### - 📫 Connect with me
+## - 📫 Connect with me
 [<img align="left" alt="Bishal kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Bishal kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Bishal kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -28,7 +28,9 @@
 </a>
 <BR />
 
-### - Languages and Tools:
+
+
+## - Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />](https://www.python.org/)
 [<img align="left" alt="Java" width="26px" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="C" width="26px" src="https://unpkg.com/simple-icons@v3/icons/C.svg" />](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -56,6 +58,6 @@
 [instagram]: https://www.instagram.com/bishalsingh2225/
 [facebook]: https://www.facebook.com/profile.php?id=100025790045805
 
-### 📫 How to reach me: ...
+### 📫 How to reach me: mail to: singhbishalkumarsingh@gmail.com
 
 
