@@ -4,10 +4,8 @@
 
 ## Hi there 👋 i am Bishal Kumar
 
-<div align="center">
 [![Twitter Follow](https://img.shields.io/twitter/follow/BishalK56217747?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBishalK56217747&screen_name=BishalK56217747)
 [![Github Follow](https://img.shields.io/github/followers/Bishal976?color=1DA1F2&logo=github&label=follow%20%40Bishal976&style=for-the-badge)](https://github.com/login?return_to=%2FBishal976)
-</div>
 
 ![](https://komarev.com/ghpvc/?username=Bishal976&color=47ccb3)
 
