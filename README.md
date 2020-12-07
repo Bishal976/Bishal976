@@ -44,31 +44,18 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/129) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-2. ❗️ Opened issue [#129](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/129) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-3. 🗣 Commented on [#95](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/95) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-4. ❗️ Opened issue [#127](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/127) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-5. 🗣 Commented on [#112](https://github.com/StudentCode-in/StudentCode-in.github.io/issues/112) in [StudentCode-in/StudentCode-in.github.io](https://github.com/StudentCode-in/StudentCode-in.github.io)
-<!--END_SECTION:activity-->
-  
-  
-</details>
 
 <details>
   <summary>:zap: Github Stats</summary> 
 
-![Lakshya's github stats](https://github-readme-stats.vercel.app/api?username=Lakshyatyagi24&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshyatyagi24&layout=compact&theme=radical)
+![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=Bishal976&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal976&layout=compact&theme=radical)
 </details>
 
-[twitter]: https://twitter.com/LakshyaTyagi24
-[linkedin]: https://www.linkedin.com/in/lakshyatyagi24/
-[instagram]: https://www.instagram.com/lakshya.tyagi/
-[facebook]: https://facebook.com/lakshya.tyagi.77
+[twitter]: https://twitter.com/BishalK56217747
+[linkedin]: https://www.linkedin.com/in/bishal-kumar-054b30192/
+[instagram]: https://www.instagram.com/bishalsingh2225/
+[facebook]: https://www.facebook.com/profile.php?id=100025790045805
 
 ### 📫 How to reach me: ...
 
