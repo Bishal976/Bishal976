@@ -11,11 +11,11 @@
 
 ## I'm a Student, Developer and Innovator
 
-### - 🔭 I’m currently working on Mern Stack.
-### - 🌱 I’m currently learning React.
+### - 🔭 Currently working on Mern Stack.
+<!-- ### - 🌱 I’m currently learning React. -->
 ### 👯 I’m looking to collaborate on Web Based Projects.
-### 🤔 I’m looking for help with ...
-### 💬 Ask me about Python projects, Patents & Frontend Web Development.
+<!-- ### 🤔 I’m looking for help with ... -->
+### 💬 Contact me For Python projects, Patents & Mern stack Development.
 
 
 ## - 📫 Connect with me
