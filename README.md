@@ -4,18 +4,15 @@
 
 ## Hi there 👋 i am Bishal Kumar
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BishalK56217747?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBishalK56217747&screen_name=BishalK56217747)
 [![Github Follow](https://img.shields.io/github/followers/Bishal976?color=1DA1F2&logo=github&label=follow%20%40Bishal976&style=for-the-badge)](https://github.com/login?return_to=%2FBishal976)
 
 ![](https://komarev.com/ghpvc/?username=Bishal976&color=47ccb3)
 
-## I'm a Student, Developer and Innovator
+## Frontend Developer and Innovator
 
-### - 🔭 Currently working on Mern Stack.
-<!-- ### - 🌱 I’m currently learning React. -->
+### 🔭 Specializes in React and Next js.
 ### 👯 I’m looking to collaborate on Web Based Projects.
-<!-- ### 🤔 I’m looking for help with ... -->
-### 💬 Contact me For Python projects, Patents & Mern stack Development.
+### 💬 Contact me For web based projects and Patents related tasks.
 
 
 ## - 📫 Connect with me
@@ -32,15 +29,12 @@
 
 ## - Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />](https://www.python.org/)
-[<img align="left" alt="Java" width="26px" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://en.wikipedia.org/wiki/HTML)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://en.wikipedia.org/wiki/CSS)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
-<br>
-<BR />
 
 ---
 
@@ -57,6 +51,6 @@
 [instagram]: https://www.instagram.com/bishalsingh2225/
 [facebook]: https://www.facebook.com/profile.php?id=100025790045805
 
-### 📫 How to reach me: mail to: singhbishalkumarsingh@gmail.com
+### 📫 How to reach me: mail to: bishalatwork2225@gmail.com
 
 
