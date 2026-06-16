@@ -12,5 +12,5 @@ Always building something on the side.
 
 **Stack:** React · Next.js · TypeScript · Node.js · Tailwind · LLM APIs
 
-📩 singhbishalkumarsingh@gmail.com  
+📩 elevatedsoul2225@gmail.com  
 🔗 [bishal-portfolio-seven.vercel.app](https://bishal-portfolio-seven.vercel.app)
