@@ -1,4 +1,4 @@
-## Bishal Kumar — Frontend Engineer
+## Bishal Kumar — Senior Frontend Engineer & AI Builder
 
 React · Next.js · TypeScript · AI-integrated products
 
