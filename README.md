@@ -7,7 +7,7 @@ Always building something on the side.
 
 **Recent builds:**
 - [NutriFlow AI](https://github.com/Bishal976/nutriflow.ai) — AI nutrition planning app, built in 4 days
-- [Market Signa Monitor](https://github.com/Bishal976/market-signal-monitor) — automated lead pipeline with HN + Reddit scraping and Groq AI scoring
+- [Market Signal Monitor](https://github.com/Bishal976/market-signal-monitor) — automated lead pipeline with HN + Reddit scraping and Groq AI scoring
 - [Portfolio](https://bishal-portfolio-seven.vercel.app) — live work samples
 
 **Stack:** React · Next.js · TypeScript · Node.js · Tailwind · LLM APIs
